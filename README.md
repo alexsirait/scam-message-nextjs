@@ -1,3 +1,26 @@
+## ⚠️ Scam Message App
+
+Built with ♡ by [Alex Sirait](https://alexsiraitnotes.vercel.app/)
+
+This app uses libs or stack:
+1. ReactJS
+2. NextJS
+3. TypeScript
+4. JavaScript
+5. React Query
+6. React Hook Form
+7. Yup
+6. Bootstrap
+8. React Toastify
+7. React Moment
+8. React Icons
+
+<br/>
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+<br/>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
